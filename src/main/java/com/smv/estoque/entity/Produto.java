@@ -1,4 +1,4 @@
-package com.smv.estoque.domain.model;
+package com.smv.estoque.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
